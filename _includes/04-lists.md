@@ -1,4 +1,4 @@
 This is a list:
-[] Test 1
-[X] Test 2
-[] Test 3
+1- [] Test 1
+2- [X] Test 2
+3- [] Test 3 :smile:
